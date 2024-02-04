@@ -14,7 +14,7 @@ The LogFile Analyzer Big Data Project is a Java-based application designed to an
 
    ```bash
    git clone https://github.com/phantom-kali/LogBigData.git
-  ```
+   ```
 2. Import the folder into your favourite IDE
 
 3. Install the dependencies using maven
